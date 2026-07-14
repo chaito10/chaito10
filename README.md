@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 *"Build less. Build better."*
 
 <p align="center">
-  <img src="bare-metal-manifesto.png" width="850" alt="Bare Metal Coding Manifesto">
+  <img src="image.png" width="850" alt="Bare Metal Coding Manifesto">
 </p>
